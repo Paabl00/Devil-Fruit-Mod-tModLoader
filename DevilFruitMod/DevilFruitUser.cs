@@ -23,7 +23,7 @@ namespace DevilFruitMod
         public int timer;
         public bool falling = false;
 
-        //variables
+        //variables fix
         public const int PARAMECIA = 1;
         public const int LOGIA = 2;
         public const int ZOAN = 3;

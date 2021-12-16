@@ -5,14 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 using Terraria;
 using Terraria.ModLoader;
-
+//git push fix
 namespace DevilFruitMod.Buffs
 {
     class LogiaDodge : ModBuff
     {
         public override void SetDefaults()
         {
-            DisplayName.SetDefault("Logia Power");
+            DisplayName.SetDefault("Logia Power"); 
             Description.SetDefault("Your power makes you an invournable element...");
             Main.debuff[Type] = true;
             Main.buffNoSave[Type] = true;
